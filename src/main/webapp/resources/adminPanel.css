@@ -1,0 +1,65 @@
+html, body {
+  border: 0;
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  
+}
+
+body {
+  background: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
+
+.panel{
+  background: #ffffff;
+  width: 50%;
+  height: auto;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 1px);
+  font-family: lato;
+  position: relative;
+  color: #333;
+  border-radius: 10px;
+ text-align: center;
+ font-size: 20px;
+ font-weight:bold;
+ 
+}
+
+.panel h3 {
+background:  #666666;
+  padding: 10px 30px;
+  color: white;
+  font-size:30px;
+  font-weight: 600;
+  border-radius: 0px 10px 0 0;
+ text-align: center;
+ 
+}
+.panel a:link {
+	color: #000000;
+	text-decoration: none;
+    text-align: center;
+	
+}
+.panel a:visited {
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	
+}
+.panel a:hover {
+	text-align: center;
+	color: #c0c0c0;
+	text-decoration: none;
+}
+ .panel a:active {
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	
+}
+

@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [12/Jul/2016:23:01:06 +0545] "GET /OnlineBookStor HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [12/Jul/2016:23:01:06 +0545] "GET /OnlineBookStor/ HTTP/1.1" 302 - http-bio-8080-exec-2 188
+0:0:0:0:0:0:0:1 - - [12/Jul/2016:23:01:08 +0545] "GET /OnlineBookStor/userlogin HTTP/1.1" 200 1026 http-bio-8080-exec-3 436
+0:0:0:0:0:0:0:1 - - [12/Jul/2016:23:01:09 +0545] "GET /OnlineBookStor/resources/userlogin.css HTTP/1.1" 304 - http-bio-8080-exec-4 124
+0:0:0:0:0:0:0:1 - - [12/Jul/2016:23:01:13 +0545] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [12/Jul/2016:23:01:13 +0545] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [12/Jul/2016:23:01:21 +0545] "GET /OnlineBookStor/crudpage HTTP/1.1" 200 30756 http-bio-8080-exec-7 1243
+0:0:0:0:0:0:0:1 - - [12/Jul/2016:23:01:21 +0545] "GET /OnlineBookStor/resources/crud.css HTTP/1.1" 304 - http-bio-8080-exec-8 40
+0:0:0:0:0:0:0:1 - - [12/Jul/2016:23:01:25 +0545] "GET /OnlineBookStor/editbook/9 HTTP/1.1" 200 31073 http-bio-8080-exec-9 173
+0:0:0:0:0:0:0:1 - - [12/Jul/2016:23:01:31 +0545] "POST /OnlineBookStor/crudpage/addbook HTTP/1.1" 400 968 http-bio-8080-exec-9 111

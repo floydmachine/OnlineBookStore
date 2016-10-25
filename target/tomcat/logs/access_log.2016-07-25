@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:45:28 +0545] "GET /OnlineBookStor/imagecrud HTTP/1.1" 500 11037 http-bio-8080-exec-2 311
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:45:29 +0545] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:45:29 +0545] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:49:49 +0545] "GET /OnlineBookStor/imagecrud HTTP/1.1" 200 430 http-bio-8080-exec-1 1909
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:49:56 +0545] "POST /onlineBookStor/addImage HTTP/1.1" 404 - http-bio-8080-exec-2 0
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:50:03 +0545] "GET /OnlineBookStor/imagecrud HTTP/1.1" 200 430 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:50:04 +0545] "GET /OnlineBookStor/imagecrud HTTP/1.1" 200 430 http-bio-8080-exec-4 41
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:50:10 +0545] "GET /OnlineBookStor/imagecrud HTTP/1.1" 200 430 http-bio-8080-exec-5 5
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:54:42 +0545] "GET /OnlineBookStor/imagecrud HTTP/1.1" 200 504 http-bio-8080-exec-1 1422
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:55:19 +0545] "GET /OnlineBookStor/imagecrud HTTP/1.1" 200 515 http-bio-8080-exec-2 83
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:13:55:27 +0545] "POST /onlineBookStor/addImage HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:15:33:53 +0545] "GET /OnlineBookStor HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:15:33:54 +0545] "GET /OnlineBookStor/ HTTP/1.1" 302 - http-bio-8080-exec-2 134
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:15:33:54 +0545] "GET /OnlineBookStor/start HTTP/1.1" 200 417 http-bio-8080-exec-3 119
+0:0:0:0:0:0:0:1 - - [25/Jul/2016:15:34:05 +0545] "GET /OnlineBookStor/imagecrud HTTP/1.1" 500 3909 http-bio-8080-exec-4 719
